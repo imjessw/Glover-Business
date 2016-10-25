@@ -1,0 +1,24 @@
+body{
+	background: peachpuff;
+}
+.content{
+	padding: 15px 20px;
+}
+.topMenu{
+	display: block;
+	width: 100%;
+	min-height: 40px;
+}
+.topButton{
+	float: right;
+	color: blue;
+
+}
+button{
+	padding: 15px 25px;
+}
+
+.center{
+	text-align: center;
+	margin: 0 auto;
+}
